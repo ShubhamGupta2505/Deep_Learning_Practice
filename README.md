@@ -1,2 +1,2 @@
 ﻿# Deep_Learning_Practice
-## Various Deep Learning 
+## Various Deep Learning Algorithms
